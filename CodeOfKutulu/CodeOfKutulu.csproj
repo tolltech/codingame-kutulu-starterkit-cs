@@ -42,10 +42,12 @@
   <ItemGroup>
     <Compile Include="Ai.cs" />
     <Compile Include="Ai_Tests.cs" />
+    <Compile Include="CellInfo.cs" />
     <Compile Include="lib\BaseStateReader.cs" />
     <Compile Include="lib\Cancelable.cs" />
     <Compile Include="Constants.cs" />
     <Compile Include="lib\Countdown.cs" />
+    <Compile Include="MapExtensions.cs" />
     <Compile Include="models\Cell.cs" />
     <Compile Include="models\Effects\Effect.cs" />
     <Compile Include="models\Entities\Entity.cs" />
